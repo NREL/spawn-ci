@@ -3,4 +3,4 @@ runners:
   config: |
     [[runners]]
       [runners.kubernetes]
-      image = "kbenne/spawn-dev:18.04"
+      image = "kbenne/spawn-dev:ubuntu-18.04"

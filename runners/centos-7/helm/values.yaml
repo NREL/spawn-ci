@@ -1,0 +1,6 @@
+runners:
+  tags: "centos7"
+  config: |
+    [[runners]]
+      [runners.kubernetes]
+      image = "kbenne/spawn-dev:centos7"
